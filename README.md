@@ -14,9 +14,9 @@
     </div>
 ```
 
-[] aaaa
-[] bbbb
-[] cccc
+[ ] aaaa
+[ ] bbbb
+[ ] cccc
 
 * リスト1
     * リスト1-2
